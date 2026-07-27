@@ -7,13 +7,13 @@
     <language>en</language>
     <item>
       <title>Trimy 1.2</title>
-      <sparkle:version>14</sparkle:version>
+      <sparkle:version>15</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
-      <pubDate>Mon, 27 Jul 2026 14:11:13 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 16:50:53 +0000</pubDate>
       <enclosure
-        url="https://github.com/hiyuno/trimy-updates/releases/download/v1.2-14/Trimy-1.2-14.dmg"
-        sparkle:edSignature="i3E8D+oNaPxF/nokHBOpUlvnksc5HWjIkeroqzeoTp6s0Tigq0z1DmA8XPDwa2SMk0SkSP249dIy/O6CBa+ZCQ=="
-        length="77678819"
+        url="https://github.com/hiyuno/trimy-updates/releases/download/v1.2-15/Trimy-1.2-15.dmg"
+        sparkle:edSignature="2kcjrwaE/iHOKORkHzBoe4BqMU5mWHk5j8vMb3eZMLdPPzaSm76FSkxB7eBu6O8PdFmvyOhq0yXVx7pnhGydCw=="
+        length="77678795"
         type="application/octet-stream" />
     </item>
   </channel>
